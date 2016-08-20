@@ -10,6 +10,10 @@ legend {
   color: #6495ED;
   text-shadow: -0.3px 0 #D1D0CE, 0 0.6px #D1D0CE, 0.6px 0 #D1D0CE, 0 -0.6px #D1D0CE;
 }
+form {
+	padding: 30px;
+	color: #D1D0CE;
+}
 p{
   background-color: black;
   color: #D1D0CE;
@@ -25,7 +29,8 @@ p{
 }
 #wrapper{
   width: 100%;
-  margin: 2% auto 0;  
+  margin: 5% auto 0;  
+  padding: 0% 5% 0% 5%;
 }
 #buttons{
   text-align: center;
